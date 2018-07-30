@@ -1,2 +1,0 @@
-# PackageDetailsExtensions
-Created with CodeSandbox
